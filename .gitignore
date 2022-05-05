@@ -1,0 +1,9 @@
+# playwright
+node_modules/
+/test-results/
+playwright-report/
+.env.playwright
+/tests/state.json
+
+# editor
+.vscode/
